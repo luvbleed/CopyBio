@@ -1,0 +1,10 @@
+{
+    "name": "CopyBio",
+    "description": "it copies bios.",
+    "authors": [
+        {
+            "name": "Me"
+        }
+    ],
+    "main": "index.js"
+}
